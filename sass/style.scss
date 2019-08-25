@@ -470,7 +470,7 @@ header{
 
 
 // #colorlib-instagram,
-#colorlib-services,
+#colorlib-tech-skills,
 #colorlib-contact,
 #colorlib-work, 
 #colorlib-blog,
@@ -583,7 +583,7 @@ header{
 }
 // heading
 .intro-heading{
-	margin-bottom: 3em;
+	//margin-bottom: 3em;
 	h2{
 		font-size: 34px;
 		font-weight: 400;
@@ -840,7 +840,7 @@ header{
 	float: left;
 	.work-img{
 		width: 100%;
-		height: 700px;
+		height: 300px;
 		margin-bottom: 40px;
 		display: table;
 		text-align: center;
@@ -848,7 +848,7 @@ header{
 		.display-t{
 			display: table-cell;
 			vertical-align: middle;
-			height: 700px;
+			height: 300px;
 			position: relative;
 			z-index: 0;
 			&:after{
@@ -1535,4 +1535,9 @@ input[type="text"] {
 	.js & {
 		opacity: 0;
 	}
+}
+
+.portfolio-image {
+  height: 300px;
+  margin-top: 4em;
 }

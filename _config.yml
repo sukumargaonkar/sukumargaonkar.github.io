@@ -1,1 +1,14 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
+
+title: Sukumar Gaonkar Portfolio
+url: https://sukumargaonkar.github.io/
+social:
+  name: Ben Balter
+  links:
+    - https://www.linkedin.com/in/sukumar-gaonkar/
+    - https://github.com/sukumargaonkar
+    - https://stackoverflow.com/users/3714133/sukumar-gaonkar
+    - https://ieeexplore.ieee.org/abstract/document/7530128
+    - https://www.facebook.com/sukumar.gaonkar
